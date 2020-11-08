@@ -1,3 +1,3 @@
 # DataStructuresWithC
-C ile Veri Yapıları
-C ile Bağlı Listeler
+
+C ile Veri Yapılarından Bağlı Listeler
